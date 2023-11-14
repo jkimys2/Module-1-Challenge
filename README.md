@@ -20,4 +20,6 @@ THEN I find a concise, descriptive title
 
 Following these criterias helped structure the code so that it appears more organized and mirrors HTML format. It also helped make the website more accessible by adding certain elements such as alt attributes and title. 
 
-Th
+The CSS file was also altered to simplify certain aspects. Some of the classes were repeated for different sections; because they had the same functions, the ones that were the same were consolidated. This helps simplify the CSS file for organization purposes. 
+
+
