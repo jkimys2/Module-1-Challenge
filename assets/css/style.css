@@ -166,6 +166,7 @@ p {
     color: #ffffff;
 } */
 
+/* the different img classes were consolidated to just article img */
 .article img {
     max-height: 200px;
 }
@@ -178,6 +179,7 @@ p {
     max-height: 200px;
 } */
 
+/* the different h2 classes were consolidated to just article h2  */
 .article h2 {
     margin-bottom: 20px;
     font-size: 36px;
