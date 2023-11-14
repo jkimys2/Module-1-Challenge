@@ -4,6 +4,7 @@
 
 Through this project, I was able help enhance the accessibility and overall flow of the Horiseon webpage. This was accomplished by using the following acceptance criteria:
 
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -15,5 +16,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
 Following these criterias helped structure the code so that it appears more organized and mirrors HTML format. It also helped make the website more accessible by adding certain elements such as alt attributes and title. 
