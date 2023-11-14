@@ -86,12 +86,13 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* benefit-brand and benefit-cost were eliminated from CSS to simplify code because they were all doing the same thing */
+.benefit-text {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/* .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -99,14 +100,14 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
-.benefit-lead h3 {
+.benefit-text h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+/* .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -114,14 +115,14 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
-.benefit-lead img {
+.benefit-text img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -132,7 +133,7 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
 .search-engine-optimization {
     margin-bottom: 20px;
