@@ -16,4 +16,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Following these criterias helped structure the code so that it appears more organized and mirrors HTML format. 
+Following these criterias helped structure the code so that it appears more organized and mirrors HTML format. It also helped make the website more accessible by adding certain elements such as alt attributes and title. 
