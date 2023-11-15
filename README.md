@@ -26,8 +26,8 @@ The CSS file was also altered to simplify certain aspects. Some of the classes w
 
 The image below shows how the final product appears:
 
-```
-    (assets/images/screenshot.png)
+```md
+    ![alt text](assets/images/screenshot.png)
 ```
 
 ## Links
