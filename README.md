@@ -30,4 +30,6 @@ The image below shows how the final product appears:
 
 ## Links
 
- https://jkimys2.github.io/Module-1-Challenge/
+https://github.com/jkimys2/Module-1-Challenge
+
+https://jkimys2.github.io/Module-1-Challenge/
