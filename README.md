@@ -2,7 +2,7 @@
 
 ## Description
 
-Through this project, I was able help enhance the accessibility and overall flow of the Horiseon webpage. This was accomplished by using the following acceptance criteria:
+Through this project, I was able enhance the accessibility and overall flow of the Horiseon webpage. This was accomplished by using the following acceptance criterias as a guideline:
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -24,7 +24,7 @@ The CSS file was also altered to simplify certain aspects. Some of the classes w
 
 ## Usage
 
-The image below shows how the final product appears:
+This is a refractor project. The changes have been made to the existing code in order to improve functionality. The image below shows how the final product appears:
 
 ![Final Web](./assets/images/screenshot.png)
 
