@@ -24,7 +24,7 @@ The CSS file was also altered to simplify certain aspects. Some of the classes w
 
 ## Usage
 
-This is a refractor project. The changes have been made to the existing code in order to improve functionality. The image below shows how the final product appears:
+This project was completed by refactoring the existing code in order to improve functionality. The image below shows how the final product appears:
 
 ![Final Web](./assets/images/screenshot.png)
 
